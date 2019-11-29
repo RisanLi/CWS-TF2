@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@sftp://lixiang@211.71.76.68:22/home/lixiang/anaconda3/envs/env_tf2/bin/python3.6">
+          <settings>
+            <list>
+              <mapping local-root="Users/risan/Documents/code/CWS" remote-root="/home1/lixiang/nlp_exercise/CWS" />
+            </list>
+          </settings>
+        </remote-mappings>
+      </list>
+    </list>
+  </component>
+</project>
